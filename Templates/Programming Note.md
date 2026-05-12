@@ -5,46 +5,45 @@ language:
 framework:
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
+# Topic 
 
-# Tema
-
-## Problema
+## Problem 
 
 ---
 
-# Conceptos importantes
+## Important Concepts 
 
 - 
 - 
 
 ---
 
-# Arquitectura / Flujo
+## Architecture / Flow 
 
 ---
 
-# Código
+## Code 
 
 ```language
 ```
 
-# Explicación del código
+## Code Explanation
 
 ---
 
-# Buenas prácticas
+##  Best Practices 
 
 ---
 
-# Errores comunes
+## Common Mistakes 
 
 ---
 
-# Optimización
+## Optimization
 
 ---
 
-# Relación con proyectos
+## Relationship with projects
 
 - [[Wardrome-ai]]
 - [[Neura]]

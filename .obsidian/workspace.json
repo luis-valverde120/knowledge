@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Programming/Rust/Rust.md",
+                "file": "07-Programming/Rust/Variables and Mutability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Variables and Mutability"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,17 +197,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5bb0baba1b4f032",
+  "active": "9f522fc291b25296",
   "lastOpenFiles": [
+    "07-Programming/Rust/Rust.md",
+    "07-Programming/Rust/Variables and Mutability.md",
+    "Templates/Programming Note.md",
+    "Welcome.md",
+    "Templates/Learning Note.md",
+    "Templates/Daily Note.md",
+    "Templates/Reserch Note.md",
     "Templates/Atomic Note.md",
     "Templates/Book Note.md",
-    "Templates/Daily Note.md",
-    "Templates/Learning Note.md",
-    "Templates/Reserch Note.md",
     "Templates/Math Note.md",
-    "Templates/Programming Note.md",
     "07-Programming/Rust/test.md",
-    "07-Programming/Rust/Rust.md",
     "Invalid date.md",
     "Untitled.md",
     "Assets",
@@ -219,7 +221,6 @@
     "06-Reserch",
     "05-Courses",
     "04-Books",
-    "03-Projects",
-    "Welcome.md"
+    "03-Projects"
   ]
 }

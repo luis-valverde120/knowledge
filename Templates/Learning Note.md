@@ -7,19 +7,19 @@ source:
 topic:
 ---
 
-# Título
+# Topic 
 
 ## Idea principal
 Explica en 2-5 líneas qué es esto con tus propias palabras.
 
 ---
 
-# Explicación simple (Feynman)
+## Simple Explanation (Feynman)
 ¿Cómo se lo explicarías a alguien sin conocimientos técnicos?
 
 ---
 
-# Conceptos clave
+## Key Concepts
 
 - 
 - 
@@ -27,59 +27,50 @@ Explica en 2-5 líneas qué es esto con tus propias palabras.
 
 ---
 
-# Cómo funciona
+## How works
 
-## Paso a paso
+## Step by Step 
 1.
 2.
 3.
 
 ---
 
-# Ejemplo práctico
+## Example practice
 
 ```example
 ```
 
 ---
-# Analogía mental
+## Mental Analogy 
 
 
 ---
 
-# Problemas que resuelve
+## Problems that resolve
 - 
 - 
 
 ---
 
-# Limitaciones
+## Limitations 
 * 
 * 
 
 ---
 
-# Casos reales de uso
+## Real case use
 - 
 ---
 
-# Relación con otros temas
+## Relationship of other topics
 
 - [[ ]]
 
 ---
 
-# Preguntas abiertas
+## Open Questions
 
 ---
 
-# Qué no entendí todavía
 
----
-
-# Resumen de 5 líneas
-1.
-2.
-3.
-4.
-5.
