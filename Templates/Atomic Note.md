@@ -6,25 +6,25 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 
 # Idea
 
-## Concepto
+## Concept
 
 ---
 
-# Explicación
+## Expanation 
 
 ---
 
-# Relación
+## Relationship 
 
 - [[ ]]
 - [[ ]]
 
 ---
 
-# Insight personal
+## Insight personal
 
 ---
 
-# Aplicación
+## aplication
 
 ---

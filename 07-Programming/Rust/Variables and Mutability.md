@@ -13,9 +13,9 @@ language: Rust
 This is about the variables, basic types and how works this variables and who to use it.
 
 >[!note]
->For default the variables are immutable, this offer rust to write code where we take advantage for concurrency.
+>For default the variables are immutable, this offer [[rust]] to write code where we take advantage for concurrency.
 
-When a variables is immutable, we can't change the value of this once a value is bound to a name  this mean the variable once a value is given this can't change. For define a variable in rust we can use de word `let`
+When a variables is immutable, we can't change the value of this once a value is bound to a name  this mean the variable once a value is given this can't change. For define a variable in [[rust]] we can use de word `let`
 ### Example
 
 ```rust
@@ -80,8 +80,9 @@ new value of x is: 6
 ```
 
 
-
 ## Idea principal
+
+In this idea we have all variables immutables this is
 
 ---
 
